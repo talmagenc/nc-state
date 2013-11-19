@@ -1,6 +1,6 @@
 Title added (no 3rd para)
 
-It was the best of ties, it was the worst of times.
+It was the best of times, it was the worst of times.
 This text involves multiple lines of information.
 
 Adding another line and paragraph.
